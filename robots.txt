@@ -1,0 +1,4 @@
+﻿User-agent:*
+Disallow:
+
+Sitemap:http://www.baihuagu2020.cn/sitemap.xml
